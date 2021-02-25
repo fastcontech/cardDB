@@ -1,4 +1,5 @@
-[
+{
+  "cards":[
   {
     "CARD_BRAND": "Amex Card",
     "CARD_BANK": "ALPHA BANK OF ALBANIA",
@@ -35,3 +36,4 @@
     "EXPIRY_DATE": "04/22"
   }
 ]
+}
