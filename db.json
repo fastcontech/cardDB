@@ -1,7 +1,7 @@
 {
   "cards":[
   {
-    "CARD_BRAND": "Amex Card",
+    "CARD_BRAND": "2131165377",
     "CARD_BANK": "ALPHA BANK OF ALBANIA",
     "CARD_NUMBER": "4532481457279546",
     "NAME": "Jack Chatterjee",
@@ -9,7 +9,7 @@
     "CARD_BACKGROUND":"1"
   },
   {
-    "CARD_BRAND": "PRIVATE LABEL",
+    "CARD_BRAND": "2131165383",
     "CARD_BANK": "AZIZI BANK",
     "CARD_NUMBER": "4916133208899512",
     "NAME": "Pranay Dixit",
@@ -17,7 +17,7 @@
     "CARD_BACKGROUND":"2"
   },
   {
-    "CARD_BRAND": "RED FUEL CARD",
+    "CARD_BRAND": "2131165390",
     "CARD_BANK": "AZIZI BANK",
     "CARD_NUMBER": "4532546531450360",
     "NAME": "Silvana Delvalle",
@@ -25,7 +25,7 @@
     "CARD_BACKGROUND":"3"
   },
   {
-    "CARD_BRAND": "MASTERCARD",
+    "CARD_BRAND": "2131165390",
     "CARD_BANK": "AZIZI BANK",
     "CARD_NUMBER": "4485938408962360",
     "NAME": "জলিল আলী",
@@ -33,7 +33,7 @@
     "CARD_BACKGROUND":"1"
   },
   {
-    "CARD_BRAND": "MASTERCARD",
+    "CARD_BRAND": "2131165383",
     "CARD_BANK": "CSCBANK S.A.L.",
     "CARD_NUMBER": "4653059900599000",
     "NAME": "করিম তাসনীম",
